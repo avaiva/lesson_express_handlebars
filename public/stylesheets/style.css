@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+
+nav{
+    display: flex;
+    flex-direction: column;
+}
+
+nav ul{
+    list-style-type: none;
+
+}
